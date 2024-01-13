@@ -1,0 +1,23 @@
+
+body{
+    text-align: center;
+}
+h1{
+
+    color: rgb(240, 83, 109);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+button{
+    background-color: blue;
+    width: 10%;
+    height: 30px;
+    border-radius:10px;
+}
+
+.clicked{
+    background-color: red;
+    color: white;
+}
